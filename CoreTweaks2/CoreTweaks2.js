@@ -1,9 +1,9 @@
 /***
 |Name|CoreTweaks2|
 |Source|https://github.com/Skeeve/TiddlyStuff.git|
-|Version|1|
+|Version|1.1|
 |Author|Stephan Hradek|
-|License|Like Eric Shulman's license located at http://tiddlytools.com/#LegalStatements|
+|License|BSD|
 |~CoreVersion|2.2.0|
 |Type|plugin|
 |Description|A small tweak to the tiddler macro to support flexible rewrites|
@@ -11,6 +11,8 @@
 This tiddler is based on Eric Shulman's [[CoreTweaks|http://www.tiddlytools.com/#CoreTweaks]].
 
 It patches the tiddler Macro to support a more flexibel syntax.
+
+**NOTE: YOu shouldn't use this tweak but switch to [[TemplateTiddlerPlugin|https://github.com/Skeeve/TiddlyStuff.git]]**
 
 !Old Syntax
 It's still possible to use the old syntax as described in the [[CoreTweaks|http://www.tiddlytools.com/#CoreTweaks]]
