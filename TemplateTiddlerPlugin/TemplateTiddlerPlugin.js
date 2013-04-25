@@ -4,11 +4,13 @@
 |Version|1|
 |Author|Stephan Hradek|
 |License|The BSD License|
-|~CoreVersion|tested with 2.7.1|
+|~CoreVersion|2.7.1|
 |Type|plugin|
 |Description|A macro which allows transclusion of other tiddlers while replacing named variables|
 
 This tiddler is partly based on Eric Shulman's [[CoreTweaks|http://www.tiddlytools.com/#CoreTweaks]].
+
+It was tested with CoreVersion 2.7.1 but might as well work for older versions.
 
 !Syntax
 {{{
