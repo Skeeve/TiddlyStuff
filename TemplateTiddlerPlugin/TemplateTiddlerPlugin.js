@@ -1,5 +1,5 @@
 /***
-|Name|CoreTweaks2|
+|Name|TemplateTiddlerPlugin|
 |Source|https://github.com/Skeeve/TiddlyStuff.git|
 |Version|1|
 |Author|Stephan Hradek|
